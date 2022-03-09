@@ -21,6 +21,7 @@ NSE India: https://www.nseindia.com/
 <br>
 **Close Price :** The stock closing at the end of the Market hours
 <br>
+<br>
 **Mean Open:** 1267.759708 INR
 <br>
 **Max Open:** 33399.950000 INR
