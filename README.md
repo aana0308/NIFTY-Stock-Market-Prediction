@@ -14,8 +14,11 @@ NSE India: https://www.nseindia.com/
 <br>
 <br>
 **Open Price :** The Stock at which opens at the start of market
+<br>
 **High price :** The particular stock which made high during that particular day
+<br>
 **Low Price :** The Particular stock which made Low during that particular day
+<br>
 **Close Price :** The stock closing at the end of the Market hours
 <br>
 **Mean Open:** 1267.759708 INR
