@@ -72,5 +72,5 @@ LSTM networks are well-suited to classifying, processing and making predictions 
 
 
 ## Future Work
-Nothing till now
+As a part of future work we need to fix offsets and randomness that appears and even try apply back LSTM to make a past comparision. 
 
